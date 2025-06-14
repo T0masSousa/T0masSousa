@@ -15,7 +15,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T0masSousa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="65%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=T0masSousa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="85%"/>
 </div>
 
 ### 🔝 Top Contributed Repo
