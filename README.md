@@ -1,3 +1,4 @@
+<h1 align="center">Hey 👋What's Up?</h1>
 🔭 I’m currently working on [BetLearn](https://betlearn.vercel.app/#)<br>🌱 I’m currently a Master's student in Communication and Web Technologies at the University of Aveiro.<br>📫 Reach me trough my [Portfolio](https://t0massousa.github.io/portfolio/#)<br>
 
 
