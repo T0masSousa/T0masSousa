@@ -1,29 +1,192 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-🌱 I’m currently a Master's student in Communication and Web Technologies at the University of Aveiro.<br>📫 Reach me trough my [Portfolio] (https://t0massousa.github.io/portfolio/#)<br>
+# galaxy-profile
 
+![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=flat&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5965.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-965000?logo=webgl&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-46521F?style=flat&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat&logo=codecov&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=flat&logo=tampermonkey&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
+A dynamic GitHub profile README generator that creates animated SVG banners with a space/galaxy theme. Your GitHub stats, tech stack, and featured projects are rendered as a living galaxy.
+
+## Preview
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T0masSousa&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true" width="65%"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=T0masSousa&theme=ocean_dark&hide_border=false" width="65%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0masSousa&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="65%"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T0masSousa&theme=dracula&no-frame=false&no-bg=false&margin-w=4" width="95%"/>
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-### 🔝 Top Contributed Repo
+<br/>
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=T0masSousa&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" width="65%"/>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=T0masSousa&icon=3&color=3)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+## Features
+
+- **Spiral Galaxy Header** — animated galaxy with spiral arms, shooting stars, and a glowing core displaying your name and tagline
+- **Mission Telemetry** — real-time GitHub stats (commits, stars, PRs, issues, repos) fetched via GraphQL or REST fallback
+- **Language Telemetry + Focus Sectors** — language usage bars and a rotating radar chart of your focus areas
+- **Featured Systems** — project cards with orbital animations and constellation connections
+- **Fully Configurable** — colors, focus areas, projects, and displayed metrics are all controlled via `config.yml`
+- **Auto-Updates** — GitHub Actions regenerates SVGs every 12 hours or on config changes
+
+## Quick Start
+
+1. **Fork this repo** (or use "Use this template") and rename it to your GitHub username.
+2. Copy the example config:
+   ```bash
+   cp config.example.yml config.yml
+   ```
+3. Edit `config.yml` with your details (username, name, tagline, tech stack, projects, etc.)
+4. Replace `README.md` with the contents of [`README.profile.md`](README.profile.md) and customize the social links.
+5. Push — the GitHub Action will generate and commit the SVGs automatically.
+
+> **Important:** This repo ships with `--demo` mode enabled in the GitHub Action so it works out-of-the-box with sample data. After creating your `config.yml` in step 3, edit `.github/workflows/generate-profile.yml` and change the generate step from:
+> ```yaml
+> run: python -m generator.main --demo
+> ```
+> to:
+> ```yaml
+> run: python -m generator.main
+> ```
+> This switches from demo data to your real GitHub stats.
+
+> **Note:** The first run may need a manual trigger. Go to Actions > "Generate Profile SVGs" > "Run workflow".
+
+## Configuration Reference
+
+All configuration lives in `config.yml`. See [`config.example.yml`](config.example.yml) for a fully commented template.
+
+| Section | Description |
+|---------|-------------|
+| `username` | Your GitHub username (required) |
+| `profile` | Name, tagline, company, location, bio, philosophy |
+| `social` | Email, LinkedIn handle, website URL |
+| `galaxy_arms` | 3 focus areas — each with a name, color (`synapse_cyan`, `dendrite_violet`, `axon_amber`), and tech items |
+| `projects` | Featured repos — each with `repo`, `arm` index (0-2), and `description` |
+| `theme` | 9 hex color overrides for the deep space palette |
+| `stats.metrics` | Which metrics to show: `commits`, `stars`, `prs`, `issues`, `repos` |
+| `languages` | Languages to `exclude` and `max_display` count |
+
+## Local Development
+
+### Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/galaxy-profile.git
+cd galaxy-profile
+
+# Create and activate a virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Copy the example config and customize it
+cp config.example.yml config.yml
+```
+
+### Generating SVGs
+
+**Demo mode** — no API calls, uses sample data from `config.example.yml`:
+
+```bash
+python -m generator.main --demo
+```
+
+**Without a token** — fetches public data only (commit data will be limited):
+
+```bash
+python -m generator.main
+```
+
+**With a token** — complete data including private contributions:
+
+```bash
+GITHUB_TOKEN=ghp_your_token_here python -m generator.main
+```
+
+To generate a token: [github.com/settings/tokens](https://github.com/settings/tokens) > Generate new token (classic) > select the `read:user` scope.
+
+The 4 SVGs are written to `assets/generated/`.
+
+### Viewing SVGs
+
+Open any SVG directly in a browser:
+
+```bash
+open assets/generated/galaxy-header.svg
+```
+
+Or start a local server to view them all at once:
+
+```bash
+python3 -m http.server 8080
+# Visit http://localhost:8080 and navigate to assets/generated/
+```
+
+### Running Tests
+
+```bash
+pip install -r requirements-dev.txt
+pytest -v
+```
+
+Tests cover config validation, utility functions, and SVG generation. No network access or tokens required.
+
+## How the GitHub Action Works
+
+The workflow (`.github/workflows/generate-profile.yml`) runs automatically:
+
+- **Every 12 hours** (cron schedule)
+- **On push** when `config.yml` or `generator/**` files change
+- **Manually** via the Actions tab (workflow_dispatch)
+
+It generates the SVGs and commits them with the message `chore: update profile SVGs [skip ci]`.
+
+## Troubleshooting
+
+- **"Could not fetch stats"** — Invalid or expired token. Check the token or run without one to use the REST fallback.
+- **SVG with XML error in browser** — Verify that `config.yml` is well-formatted YAML. Special characters (`&`, `<`, `>`) in text fields are escaped automatically, but malformed YAML will break generation.
+- **Languages not showing** — Private repos don't return languages via REST without a token. Use a token with `repo` scope to include them.
+
+## Contributing
+
+Contributions are welcome! Here's how to help:
+
+1. **Bug reports** — open an issue with steps to reproduce and expected vs actual behavior.
+2. **Feature suggestions** — open an issue tagged **enhancement** describing the feature and why it's useful.
+3. **Pull requests:**
+   - Fork the repo and create a branch from `main`
+   - Follow the [Local Development](#local-development) setup above
+   - Make your changes and verify SVGs generate correctly (`python -m generator.main`)
+   - Test your SVGs in a browser to verify animations render
+   - Open a PR against `main` with a clear description
+
+**Code guidelines:** SVG templates live in `generator/templates/` (one file per section). Config schema lives in `generator/config.py`. Don't commit `config.yml` (it's gitignored) — update `config.example.yml` for new config options. Keep PRs focused: one feature or fix per PR.
+
+## Architecture
+
+```
+generator/
+├── main.py              # Entry point — loads config, fetches data, writes SVGs
+├── config.py            # Config validation and defaults
+├── github_api.py        # GitHub GraphQL + REST client
+├── svg_builder.py       # Orchestrator connecting config, stats, and templates
+├── utils.py             # Colors, math helpers, SVG utilities
+└── templates/
+    ├── galaxy_header.py           # Spiral galaxy banner (850x280)
+    ├── stats_card.py              # Metrics card (850x180)
+    ├── tech_stack.py              # Language bars + radar chart (850xN)
+    └── projects_constellation.py  # Project cards (850x220)
+```
