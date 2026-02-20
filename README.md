@@ -30,9 +30,11 @@
 
 <br/>
 
-Currently working on Ser+ Mobile App
+Master's Student In Communication and Web Technologies, Grant Researcher, Frontend Developer
 
-**Currently at** Viseu, Portugal
+**Currently at** University of Aveiro
+
+Currently working on Ser+ Mobile App
 
 </details>
 
